@@ -1,0 +1,14 @@
+C:\Users\Afonso\Documents\servidor\bin\Debug\net8.0\servidor.exe
+C:\Users\Afonso\Documents\servidor\bin\Debug\net8.0\servidor.deps.json
+C:\Users\Afonso\Documents\servidor\bin\Debug\net8.0\servidor.runtimeconfig.json
+C:\Users\Afonso\Documents\servidor\bin\Debug\net8.0\servidor.dll
+C:\Users\Afonso\Documents\servidor\bin\Debug\net8.0\servidor.pdb
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\servidor.AssemblyInfoInputs.cache
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\servidor.AssemblyInfo.cs
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\servidor.csproj.CoreCompileInputs.cache
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\servidor.dll
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\refint\servidor.dll
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\servidor.pdb
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\servidor.genruntimeconfig.cache
+C:\Users\Afonso\Documents\servidor\obj\Debug\net8.0\ref\servidor.dll
